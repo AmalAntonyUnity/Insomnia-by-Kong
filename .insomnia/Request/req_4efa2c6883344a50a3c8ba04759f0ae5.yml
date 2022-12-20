@@ -1,0 +1,21 @@
+_id: req_4efa2c6883344a50a3c8ba04759f0ae5
+type: Request
+parentId: wrk_476fab9e74c24b61bccd823ef2f2d041
+modified: 1671512493260
+created: 1671512423900
+url: "{{ _.base_url }}/uuid"
+name: test
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671512423900
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
